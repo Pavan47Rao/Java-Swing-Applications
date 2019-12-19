@@ -1,0 +1,5 @@
+* Modeling a ride has been implemented in the project
+* Available city of Car is assumed to be current location of the car
+* The model can be enhanced by adding 'AvailableBy' as an attribute to the car. It can be taken as input when created. When the ride is booked it can be updated by calculating from the current time.
+* In the current model, destination is expecting from the user before booking the ride. Hence, when the ride ends, the destination location will be set as current location of the car.
+* Available City and Destination Location will help this model in determining the current location.
