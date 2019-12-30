@@ -20,7 +20,7 @@ import userinterface.MainJFrame;
 
 /**
  *
- * @author Floyed Pinto
+ * @author Pavan Rao
  */
 public class FacebookApiUtils {
      static final Logger logger = Logger.getLogger(EmailSenderRunnable.class);
